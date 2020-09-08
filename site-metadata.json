@@ -2,7 +2,7 @@
   "title": "Stackbit Exto Theme",
   "description": "A portfolio theme with a blog",
   "color_scheme": "light",
-  "accent_color": "pink",
+  "accent_color": "blue",
   "header": {
     "type": "header",
     "title": "Exto",
@@ -44,7 +44,8 @@
         "url": "/contact/",
         "style": "link"
       }
-    ]
+    ],
+    "logo_img": "/images/brand-mark.svg"
   },
   "footer": {
     "type": "footer",
